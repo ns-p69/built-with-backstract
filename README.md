@@ -23,8 +23,8 @@ A curated collection of applications, tools, and projects built using **[BackStr
 Each app is organized in its own directory and includes:
 
 - `README.md` – App overview
-- `/src` – App source code
-- `/config` – BackStract configuration or setup info
+- `/backend` – Application's Backend developed using BackStract
+- `/frontend` – Application's Frontend developed by the individual contributors in their preferred framework
 - Optional: Screenshots, deployment guides, or live demo links
 
 ---
@@ -33,10 +33,10 @@ Each app is organized in its own directory and includes:
 
 | Project | Description | Tech Stack          | Link |
 |--------|-------------|---------------------|------|
-| ✨ Example App | A quickstart template for BackStract apps | React + BackStract  | [View](./example-app) |
-| 📋 Task Manager | A simple CRUD task management tool | Vue + BackStract    | Coming soon |
-| 🛍️ Mini E-commerce | A lightweight storefront backend | Svelte + BackStract | Coming soon |
-| 🎉 Hackathon 240    | Innovative project developed during Hackathon 240 | NextJS + BackStract | [View](./hackathon-240) |
+| ✨ ParkMate | A parking lot management system | React + BackStract | [View](https://parking-lot-gamma.vercel.app/) |
+| 📋 Task Manager | A simple CRUD task management tool | NextJS + BackStract    | Coming soon |
+| 🛍️ Lead Generation | A lightweight lead generation module to build Forms & store responses in Dashboard | React + BackStract | Coming soon |
+| 🎉 Hackathon 240  | A platform to manage Hackathon event, attendees, challenges, and leaderboard | NextJS + BackStract | [View](https://hackathon.backstract.io/) |
 
 > PRs are welcome to feature more projects! 🚀
 
